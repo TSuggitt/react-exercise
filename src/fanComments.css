@@ -1,0 +1,15 @@
+li {
+    border-radius: 20px;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    color:white;
+    background-color: darkgray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header { 
+    color: white;
+}

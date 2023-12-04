@@ -1,0 +1,33 @@
+.songListItems {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    padding: 10px;
+    list-style-type: none;
+    margin-bottom: 20px;
+    color:white;
+    background-color: darkgray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img, h1{
+    display: inline-block;
+}
+h1{
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius:10px;
+}
+
+#songBody{
+  
+    text-align: center;
+    margin: auto;
+}
+
